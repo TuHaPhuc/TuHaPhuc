@@ -10,6 +10,18 @@
 
 ---
 
+<div align="center">
+
+# 👋 Hi, I'm Tu Ha Phuc (Phúc Tử Hà)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=AI+Engineer+(NLP+%2B+LLM+%2B+Agentic);Vietnamese+NLP+Specialist;Building+RAG+%26+Multi-Agent+Systems;Fine-tuning+%26+Continued+Pretraining)](https://git.io/typing-svg)
+
+### 🚀 Specialized in LLM-powered Applications for Vietnamese Language
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 ```python
