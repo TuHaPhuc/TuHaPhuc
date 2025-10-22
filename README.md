@@ -9,7 +9,6 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
 ```python
